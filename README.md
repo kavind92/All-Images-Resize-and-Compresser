@@ -9,4 +9,4 @@ $all_img_quality = "60"; //value range : 1 to 100<br/>
 <b>3.Then Run All.php file</b><br/>
 <b>4.Wait Few Minutes. Time Taken based on number of images. check compressionLog.txt for log. Thats all.</b><br/>
 <br/>
-any or need help ping me through kavind92@gmail.com
+any suggestions or need help ping me through kavind92@gmail.com
